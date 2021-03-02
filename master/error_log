@@ -1,0 +1,35 @@
+[24-Jan-2021 00:04:44 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:04:53 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:05:50 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:06:58 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:07:04 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:07:08 UTC] PHP Fatal error:  Call to undefined function getmainposthome() in /home/kenxeduc/public_html/master/index.php on line 173
+[24-Jan-2021 00:14:59 UTC] PHP Warning:  require_once(getPost.php): failed to open stream: No such file or directory in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:14:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'getPost.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:15:04 UTC] PHP Warning:  require_once(getPost.php): failed to open stream: No such file or directory in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:15:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'getPost.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:16:28 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:17:15 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:17:54 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:18:38 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:18:41 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:18:46 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/kenxeduc/public_html/master/index.php on line 172
+[24-Jan-2021 00:19:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/kenxeduc/public_html/master/count.php on line 8
+[24-Jan-2021 00:27:34 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:27:34 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:28:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:10 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:28:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:30 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:30 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:28:48 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/kenxeduc/public_html/master/count.php on line 10
+[24-Jan-2021 00:28:48 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:29:45 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:29:52 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/kenxeduc/public_html/master/count.php on line 11
+[24-Jan-2021 00:31:36 UTC] PHP Fatal error:  Call to undefined function countauthor() in /home/kenxeduc/public_html/master/index.php on line 163
+[24-Jan-2021 00:32:00 UTC] PHP Fatal error:  Call to undefined function countauthor() in /home/kenxeduc/public_html/master/index.php on line 163
+[24-Jan-2021 00:32:02 UTC] PHP Fatal error:  Call to undefined function countauthor() in /home/kenxeduc/public_html/master/index.php on line 163
+[24-Jan-2021 00:33:32 UTC] PHP Fatal error:  Call to undefined function countAuthor() in /home/kenxeduc/public_html/master/index.php on line 163
